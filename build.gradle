@@ -1,4 +1,3 @@
-rootProject.name ='helloworld'
 apply plugin: 'java'
 
 jar {
